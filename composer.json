@@ -1,0 +1,11 @@
+{
+    "name": "ahbv/switch-button",
+    "description": "Switch button component for PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ahbv\\SwitchButton\\": "src/"
+        }
+    },
+    "require": {}
+}
